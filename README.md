@@ -1,4 +1,6 @@
-## Olá! Eu sou o Alessandro Júnior - Front-End Developer. Em busca de uma oportunidade e experiência na área de tecnologia e desenvolvimento.
+## Olá! Eu sou o Alessandro Júnior - Front-End Developer.
+
+ Em busca de uma oportunidade e experiência na área de tecnologia e desenvolvimento.
 
  
  <div align="center">
