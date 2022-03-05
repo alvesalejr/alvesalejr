@@ -30,6 +30,4 @@
   <a href="https://instagram.com/dev.alvesalejr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  </div>
  
-<div align="center">
  ![Snake animation](https://github.com/alvesalejr/alvesalejr/blob/output/github-contribution-grid-snake.svg)
-</div>
