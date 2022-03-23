@@ -1,15 +1,15 @@
 ## Olá! Eu sou o Alessandro Júnior - Front-End Developer.
 
  Em busca de uma oportunidade e experiência na área de tecnologia e desenvolvimento. Atualmente no 3° Semestre de Análise e Desenvolvimento de Sistemas, estou estudando
- novas linguagens back-end (Java, Javascript, Python e Banco de Dados) para adquirir novas habilidades e novos conhecimentos.
+ novas linguagens back-end (Java, Javascript, Python e Banco de Dados) para adquirir novas habilidades e novos conhecimentos. Atualmente no 1° semestre do básico ao fluente em Inglês.
  
  
 
  
  <div align="center">
   <a href="https://github.com/alvesalejr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alvesalejr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvesalejr&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alvesalejr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvesalejr&layout=compact&langs_count=7&theme=dark"/>
   </a>
 </div>
  
