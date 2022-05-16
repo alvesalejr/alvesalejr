@@ -1,7 +1,6 @@
 ## Olá! Eu sou o Alessandro Júnior - Front-End Developer.
 
- Em busca de uma oportunidade e experiência na área de tecnologia e desenvolvimento. Atualmente no 3° Semestre de Análise e Desenvolvimento de Sistemas, estou estudando
- novas linguagens back-end (Java, Javascript, Python e Banco de Dados) para adquirir novas habilidades e novos conhecimentos. Atualmente no 1° semestre do básico ao fluente em Inglês.
+ Atualmente no 3° Semestre de Análise e Desenvolvimento de Sistemas e estagiando na empresa Fábrica de Ideias, estou estudando novas linguagens back-end (Java, Javascript, Python e Banco de Dados) para adquirir novas habilidades e novos conhecimentos. Atualmente no 1° semestre do básico ao fluente em Inglês.
  
  
 
