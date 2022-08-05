@@ -1,8 +1,6 @@
 ## Olá! Eu sou o Alessandro Júnior - Front-End Developer.
 
- Atualmente no 4° Semestre de Análise e Desenvolvimento de Sistemas e estagiando na empresa Fábrica de Ideias, estou estudando novas linguagens back-end (Java, Javascript, Python) para adquirir novas habilidades e novos conhecimentos. Atualmente no 1° semestre do básico ao fluente em Inglês.
- 
- 
+ Atualmente no 4° Semestre de Análise e Desenvolvimento de Sistemas e estagiando na empresa Fábrica de Ideias, estou estudando novas linguagens back-end (JavaScript) para adquirir novas habilidades e novos conhecimentos.
 
  
  <div align="center">
