@@ -1,4 +1,4 @@
-## Olá! Eu sou o Alessandro Júnior - Front-End Developer.
+## Olá! Eu sou o Alessandro Júnior - Developer.
 
  Atualmente no 4° Semestre de Análise e Desenvolvimento de Sistemas e estagiando na empresa Fábrica de Ideias;
 
