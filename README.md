@@ -1,6 +1,8 @@
 ## Olá! Eu sou o Alessandro Júnior - Developer.
 
- Atualmente no 4° Semestre de Análise e Desenvolvimento de Sistemas, 1° Semestre de Ciência da Computação e estagiando na empresa Fábrica de Ideias;
+ Atualmente no 4° Semestre de Análise e Desenvolvimento de Sistemas, 1° Semestre de Ciência da Computação e estagiando na empresa Fábrica de Ideias
+ 
+ Desenvolvedor em Python;
 
  ## Contato:
  <div align="center">
