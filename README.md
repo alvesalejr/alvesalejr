@@ -2,7 +2,6 @@
 
  Atualmente no 4° Semestre de Análise e Desenvolvimento de Sistemas, 1° Semestre de Ciência da Computação e estagiando na empresa Fábrica de Ideias
  
-FullStack Junior | Js | Python | Web Scraping
 
  ## Contato:
  <div align="center">
