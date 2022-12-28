@@ -1,4 +1,4 @@
-## Olá! Eu sou o Alessandro Júnior - Desenvolvedor Júnior.
+## Olá! Eu sou o Alessandro Júnior - Desenvolvedor
 
  Formado em Análise e Desenvolvimento de Sistemas / Fábrica de Ideias.
  
