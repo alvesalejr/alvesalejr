@@ -1,4 +1,4 @@
-## Olá! Eu sou o Alessandro Júnior - Desenvolvedor
+## Olá, eu sou o Alessandro Júnior - Desenvolvedor Python.
 
  Formado em Análise e Desenvolvimento de Sistemas / Desenvolvedor em Fábrica de Ideias.
  
