@@ -1,6 +1,6 @@
 ## Olá, eu sou o Alessandro Júnior - Desenvolvedor Python.
 
- Formado em Análise e Desenvolvimento de Sistemas / Desenvolvedor em Fábrica de Ideias.
+Desenvolvedor, com experiência em desenvolvimento em Python, PHP e Javascript, buscando novas por oportunidades e por novos desafios na área de desenvolvimento. Habilidades em resolução de problemas, trabalho em equipe, manutenção de banco de dados e criação, manutenção de bots e automatizações.
  
  ![Python](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
  
