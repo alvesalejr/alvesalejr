@@ -2,8 +2,7 @@
 
 **`UX/UI Designer | Desenvolvedor FullStack`**
 
-Desenvolvedor, com experiência em desenvolvimento em Python, PHP e Javascript, buscando novas por oportunidades e por novos desafios na área de desenvolvimento. Habilidades em resolução de problemas, trabalho em equipe, manutenção de banco de dados e criação, manutenção de bots e automatizações.
-
+Desenvolvedor de Software com experiência em Python e PHP, atuando na criação e manutenção de bots para web scraping, análise de dados e desenvolvimento de APIs. Tenho experiência em desenvolvimento web utilizando HTML, CSS, JavaScript e React.js. Possuo conhecimento no uso de Docker para criação, desenvolvimento e manutenção de sistemas. Além disso, tenho experiência prática em UX/UI Design, focando na criação de interfaces intuitivas e de fácil usabilidade, além de protótipos e design de interfaces no Figma.
 ---
 
 ###  Linguagens e Tecnologias
