@@ -55,6 +55,7 @@ Também gosto de trabalhar com **UX/UI Design**, focando em interfaces intuitiva
 ---
 
 ### 📬 Vamos nos conectar?
+
 - 💼 [LinkedIn](https://www.linkedin.com/in/seu-perfil)
 ---
 
