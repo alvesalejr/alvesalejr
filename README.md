@@ -55,9 +55,7 @@ Também gosto de trabalhar com **UX/UI Design**, focando em interfaces intuitiva
 ---
 
 ### 📬 Vamos nos conectar?
-
 - 💼 [LinkedIn](https://www.linkedin.com/in/seu-perfil)
-- 🐙 [GitHub](https://github.com/alvesalejr)
 ---
 
 > 💡 Sempre em busca de novos desafios e aprendizados na área de **desenvolvimento web**, especialmente no **front-end**.
