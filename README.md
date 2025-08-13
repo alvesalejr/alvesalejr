@@ -4,8 +4,7 @@
 ---
 
 ### 👋 Olá, um pouco sobre mim.
-
-Sou desenvolvedor de software com experiência em **Python**, **PHP** e **JAVASCRIPT**, atuando na criação e manutenção de bots para **web scraping**, **análise de dados**, desenvolvimento de **APIs** e desenvolvimento de interfaces.
+Sou desenvolvedor de software com experiência em **Python**, **PHP** e **JAVASCRIPT**, atuando na criação e manutenção de bots para **web scraping**, **análise de dados**, desenvolvimento de **APIs** e desenvolvimento de interfaces.  
 Tenho foco em entregar soluções eficientes e escaláveis, unindo desenvolvimento backend, frontend e análise de dados para apoiar decisões estratégicas.
 
 ---
@@ -28,27 +27,27 @@ Tenho foco em entregar soluções eficientes e escaláveis, unindo desenvolvimen
 
 ---
 
-### 📊 Estatísticas do GitHub
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=alvesalejr&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-</p>
-
----
-
+### 📊 Estatísticas do GitHub e Contatos
+<table>
+<tr>
+<td width="50%">
+<img 
+  alt="GitHub Stats" 
+  height="200" 
+  src="https://github-readme-stats.vercel.app/api?username=alvesalejr&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+/>
+</td>
+<td width="50%">
+  
 ### 🌐 Portfólio
-📌 Acesse meu portfólio pessoal:  
-👉 [https://alvesalejr.github.io/cardalessandro](https://alvesalejr.github.io/cardalessandro)
-
----
+📌 [Acesse meu portfólio pessoal](https://alvesalejr.github.io/cardalessandro)  
 
 ### 📬 Vamos nos conectar?
-- 💼 [LinkedIn](https://www.linkedin.com/in/seu-perfil)
+💼 [LinkedIn](https://www.linkedin.com/in/seu-perfil)  
+
+</td>
+</tr>
+</table>
 
 ---
 
